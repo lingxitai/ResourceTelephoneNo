@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="1821" started-at="2020-05-07T13:27:29Z" finished-at="2020-05-07T13:27:31Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="1821" started-at="2020-05-07T13:27:29Z" finished-at="2020-05-07T13:27:31Z">
+      <class name="TaobaoGetResourceOfPhoneNoTest">
+        <test-method status="PASS" signature="getPhonenumLocation(java.lang.String, java.lang.String)[pri:0, instance:TaobaoGetResourceOfPhoneNoTest@73035e27]" name="getPhonenumLocation" duration-ms="1079" started-at="2020-05-07T21:27:29Z" data-provider="providerCaseData" finished-at="2020-05-07T21:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18500232857]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[北京联通]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPhonenumLocation -->
+        <test-method status="PASS" signature="getPhonenumLocation(java.lang.String, java.lang.String)[pri:0, instance:TaobaoGetResourceOfPhoneNoTest@73035e27]" name="getPhonenumLocation" duration-ms="92" started-at="2020-05-07T21:27:31Z" data-provider="providerCaseData" finished-at="2020-05-07T21:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13439131837]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[北京移动]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPhonenumLocation -->
+        <test-method status="PASS" signature="getPhonenumLocation(java.lang.String, java.lang.String)[pri:0, instance:TaobaoGetResourceOfPhoneNoTest@73035e27]" name="getPhonenumLocation" duration-ms="119" started-at="2020-05-07T21:27:31Z" data-provider="providerCaseData" finished-at="2020-05-07T21:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18693715707]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[甘肃联通]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPhonenumLocation -->
+        <test-method status="PASS" signature="arrayTest(int, int, int)[pri:0, instance:TaobaoGetResourceOfPhoneNoTest@73035e27]" name="arrayTest" duration-ms="9" started-at="2020-05-07T21:27:31Z" data-provider="dataProvideTest1" finished-at="2020-05-07T21:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayTest -->
+        <test-method status="PASS" signature="arrayTest(int, int, int)[pri:0, instance:TaobaoGetResourceOfPhoneNoTest@73035e27]" name="arrayTest" duration-ms="11" started-at="2020-05-07T21:27:31Z" data-provider="dataProvideTest1" finished-at="2020-05-07T21:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayTest -->
+      </class> <!-- TaobaoGetResourceOfPhoneNoTest -->
+    </test> <!-- test1 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
